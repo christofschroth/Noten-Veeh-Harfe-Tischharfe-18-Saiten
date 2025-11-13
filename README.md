@@ -1,4 +1,4 @@
-# Noten Veeh-Harfe Tischharfe-18-Saiten
+# Noten Veeh-Harfe Tischharfe 18-Saiten
 Noten für 18-Saiten Veeh-Harfe bzw. Tisch Harfe (Veeh-Harfe Basis)
 
 ## Deutsch
@@ -14,12 +14,12 @@ Hier werden Noten für die 18-saitige Veeh-Harfe (Basis) bereitgestellt. Es hand
 
 ## Schwäbisch
 
-Dåhanna geit s Nota für d 18-saitige Veeh-Harfe (Basisharfe). Moest send s alte Glaobens- und Kirchaliader aus am 19. Jahrhondert oder älter.
+Dåhanna geit s Nota für d 18-saitige Veeh-Harfe (Basisharfe). Moest send s alte Glaobens- und Kirchaliader aus am 19. Jåhrhondert oder älter.
 
 **Allgemaene Hinweis** 
 - Nutzong ond Weitergeba vo de Onterlegnota ischd zulässig onter dr **Creative Common Lizenz CC BY 4.0** (mr därf s vrbrôeta, solang dr Nåma vom Urheber drauf stôht ond koe Geld drmit vrdient wird), 
 - dia Nota send älle *oestimmig*, 
-- beim Drucka "tatsächliche Größe" ågeba (Screenshot oba).
+- beim Drucka "Tatsächliche Größe" ågeba (Screenshot oba).
 
 ## Nächste Schritt / Next steps
 
