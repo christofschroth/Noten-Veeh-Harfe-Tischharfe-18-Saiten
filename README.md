@@ -1,27 +1,27 @@
 # Noten Veeh-Harfe Tischharfe 18-Saiten
-Noten für 18-Saiten Veeh-Harfe bzw. Tisch Harfe (Veeh-Harfe Basis)
+Noten für 18-Saiten Veeh-Harfe bzw. Tisch Harfe (Veeh-Harfe Basis) und 25-Saiten Veeh-Harfe Standard
 
 ## Deutsch
 
-Hier werden Noten für die 18-saitige Veeh-Harfe (Basis) bereitgestellt. Es handelt sich hierbei um Kirchen- bzw. Glaubenslieder, meist aus dem 19. Jahrhundert oder älter.
+Hier werden Noten für die Veeh-Harfe (Basis und Standarf) bereitgestellt. Es handelt sich hierbei um Kirchen- bzw. Glaubenslieder, meist aus dem 19. Jahrhundert oder älter.
 
 **Allgemeine Hinweise**
-- Nutzung und Weitergabe der Unterlegnoten zulässig unter der **Creative Common Lizenz CC BY 4.0**,
-- die Noten sind alle *einstimmig*,
-- die Versionen für DinA3 sind für die 25 bzw 37-saitige Harfen bestimmt,
-- beim Drucken die tatsächliche Größe angeben:
-![](https://github.com/christofschroth/Noten-Veeh-Harfe-Tischharfe-18-Saiten/blob/main/Drucken.png)
+- Nutzung und Weitergabe der Unterlegnoten zulässig unter der **Creative Common Lizenz CC BY-NC-SA 4.0**,
+- die Notenblätter sind in der Regel zweistimmig,
+- die Versionen für 25-saitige Harfe sind DinA3, für die 18-saitige Harfe DinA4,
+- beim Drucken immer *Tatsächliche Größe* angeben:
+![](https://github.com/christofschroth/Noten-Veeh-Harfe-Tischharfe-18-Saiten/blob/main/Images/Drucken.png)
 
 ## Schwäbisch
 
-Dåhanna geit s Nota für d 18-saitige Veeh-Harfe (Basisharfe). Moest send s alte Glaobens- und Kirchaliader aus am 19. Jåhrhondert oder älter.
+Dåhanna geit s Nota für d Veeh-Harfe (Basisharfe ond Standardharfe). Maest send s alte Glaobens- ond Kirchaliader aus am 19. Jåhrhondert oder älter.
 
-**Allgemaene Hinweis** 
-- Nutzong ond Weitergeba vo de Onterlegnota ischd zulässig onter dr **Creative Common Lizenz CC BY 4.0**, 
-- dia Nota send älle *oestimmig*, 
-- beim Drucka "Tatsächliche Größe" ågeba (Screenshot oba).
+**Allgemaene Hinweise** 
+- Nutzong ond Weitergea vo de Onterlegnota ischd zualässig onter dr **Creative Common Lizenz CC BY-NC-SA 4.0**, 
+- dia Nota send älle zwôestimmig, 
+- d Versiona für d 25-saitige Harf send DinA3, für d 18-saitige Harf DinA4,
+- beim Drucka *Tatsächliche Größe* ågea (Screenshot oba).
 
-## Nächste Schritt / Next steps
+## Nächste Schritte / Nächste Schritt
 
-- Übersetza auf Schwäbisch,
-- Englische Texte beraetstella.
+- Weitere Lieder bereitstellen / Weitere Liader beraetstella
