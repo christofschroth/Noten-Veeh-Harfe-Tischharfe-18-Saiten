@@ -1,9 +1,9 @@
-# Noten Veeh-Harfe Tischharfe 18-Saiten
-Noten für 18-Saiten Veeh-Harfe bzw. Tisch Harfe (Veeh-Harfe Basis) und 25-Saiten Veeh-Harfe Standard
+# Unterlegnoten Veeh-Harfe Tischharfe 18-Saiten
+Unterlegnoten für 18-Saiten Veeh-Harfe bzw. Tisch Harfe (Veeh-Harfe Basis) und 25-Saiten Veeh-Harfe Standard
 
 ## Deutsch
 
-Hier werden Noten für die Veeh-Harfe (Basis und Standarf) bereitgestellt. Es handelt sich hierbei um Kirchen- bzw. Glaubenslieder, meist aus dem 19. Jahrhundert oder älter.
+Hier werden Unterlegnoten für die Veeh-Harfe (Basis und Standard) bereitgestellt. Es handelt sich hierbei um Kirchen- bzw. Glaubenslieder, meist aus dem 19. Jahrhundert oder älter.
 
 **Allgemeine Hinweise**
 - Nutzung und Weitergabe der Unterlegnoten zulässig unter der **Creative Common Lizenz CC BY-NC-SA 4.0**,
@@ -14,7 +14,7 @@ Hier werden Noten für die Veeh-Harfe (Basis und Standarf) bereitgestellt. Es ha
 
 ## Schwäbisch
 
-Dåhanna geit s Nota für d Veeh-Harfe (Basisharfe ond Standardharfe). Maest send s alte Glaobens- ond Kirchaliader aus am 19. Jåhrhondert oder älter.
+Dåhanna geit s Onterlegnota für d Veeh-Harfe (Basisharfe ond Standardharfe). Maest send s alte Glaobens- ond Kirchaliader aus am 19. Jåhrhondert oder älter.
 
 **Allgemaene Hinweise** 
 - Nutzong ond Weitergea vo de Onterlegnota ischd zualässig onter dr **Creative Common Lizenz CC BY-NC-SA 4.0**, 
